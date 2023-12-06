@@ -16,7 +16,7 @@
     font-weight: 400;
 } 
 
-@font-face { 
+@font-face {
     font-family: Inter;
     src: 
     url(./interregular.woff) format('woff'),
@@ -25,7 +25,7 @@
     font-weight: 400;
 }
 
-@font-face { 
+@font-face {
     font-family: Inter;
     src: 
     url(./interbold.woff) format('woff'),
